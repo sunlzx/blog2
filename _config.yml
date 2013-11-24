@@ -1,1 +1,3 @@
-baseurl: /blog2
+name: Your New Jekyll Site
+markdown: redcarpet
+pygments: true
